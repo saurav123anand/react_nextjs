@@ -1,0 +1,16 @@
+{
+  "name": "basic_react",
+  "version": "1.0.0",
+  "description": "this is react course",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Saurav J",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
