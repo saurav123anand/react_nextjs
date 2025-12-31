@@ -1,0 +1,20 @@
+19
+64/home/saurav-j/workspace/react_nextjs/demo2_ignite/.idea/vcs.xml1767215965707042378 0
+67/home/saurav-j/workspace/react_nextjs/demo2_ignite/.idea/.gitignore1767120986556619546 0
+56/home/saurav-j/workspace/react_nextjs/demo2_ignite/.idea1767219705044888047 1
+70/home/saurav-j/workspace/react_nextjs/demo2_ignite/.idea/workspace.xml1767219705036887843 0
+60/home/saurav-j/workspace/react_nextjs/demo2_ignite/README.md1767219801331403571 0
+59/home/saurav-j/workspace/react_nextjs/demo2_ignite/index.js1767219801312971260 0
+63/home/saurav-j/workspace/react_nextjs/demo2_ignite/package.json1767214045336039413 0
+50/home/saurav-j/workspace/react_nextjs/demo2_ignite1767220201646829166 1
+68/home/saurav-j/workspace/react_nextjs/demo2_ignite/package-lock.json1767214535438912323 0
+61/home/saurav-j/workspace/react_nextjs/demo2_ignite/index.html1767169651914972689 0
+60/home/saurav-j/workspace/react_nextjs/demo2_ignite/index.css1767121712669064216 0
+68/home/saurav-j/workspace/react_nextjs/demo2_ignite/.idea/modules.xml1767215965621043401 0
+55/home/saurav-j/workspace/react_nextjs/demo2_ignite/dist1767219803079450324 1
+73/home/saurav-j/workspace/react_nextjs/demo2_ignite/.idea/demo2_ignite.iml1767215965608078068 0
+84/home/saurav-j/workspace/react_nextjs/demo2_ignite/dist/demo2_ignite.e02fbd41.js.map1767219803074450190 0
+85/home/saurav-j/workspace/react_nextjs/demo2_ignite/dist/demo2_ignite.9e4c6fd2.css.map1767219802941446631 0
+80/home/saurav-j/workspace/react_nextjs/demo2_ignite/dist/demo2_ignite.e02fbd41.js1767219803057449735 0
+81/home/saurav-j/workspace/react_nextjs/demo2_ignite/dist/demo2_ignite.9e4c6fd2.css1767219802928446283 0
+66/home/saurav-j/workspace/react_nextjs/demo2_ignite/dist/index.html1767219802840443929 0
