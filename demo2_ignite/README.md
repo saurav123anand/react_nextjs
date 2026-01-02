@@ -71,3 +71,4 @@ You can use functional component in other compoent like any of the below way
 1. <Heading/> 
 2. <Heading></Heading>
 3. {Heading()} -> since at the ned FC is function only 
+
