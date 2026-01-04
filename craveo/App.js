@@ -1,14 +1,14 @@
-import { Body } from "./components/Body"
-import Header from "./components/Header"
+import Header from "./src/components/Header"
+import { Body } from "./src/components/Body"
+import { Outlet } from "react-router"
+
 
 export const AppLayout=()=>{
     return (
         <div className="App">
             {/* // Header Component */}
             <Header/>
-            {/* // Body Component */}
-            <Body/>
-            {/* // Footer Component */}
+            <Outlet/>
         </div>
     )
 }
